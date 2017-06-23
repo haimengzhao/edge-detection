@@ -1,2 +1,2 @@
 # edge-detection
-edge detection using python
+edge detection using ipython
