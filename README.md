@@ -20,4 +20,5 @@ edge detection using ipython
 ## relu distance
 ![relu_groening.jpg](https://github.com/JasonZHM/edge-detection/raw/master/relu_groening.jpg)
 ## binarized sigmoid distance
+### threshold: 0.8
 ![01_sig_dist_groening.jpg](https://github.com/JasonZHM/edge-detection/raw/master/01_sig_dist_groening.jpg)
