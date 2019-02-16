@@ -1,5 +1,5 @@
 # edge-detection
-edge detection using ipython
+A Simple Edge Detection Demo Using Various Basic Methods
 
 # Libraries used:
 * numpy
